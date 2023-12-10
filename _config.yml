@@ -1,0 +1,49 @@
+# Site settings
+course_name: Applied Data Science - Decision-making beyond Prediction
+course_description: "This course considers the data science challenges beyond training an accurate predictive model, especially for systems about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, or urban systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and privacy and ethics concerns."
+course_semester: "Fall 2023"
+
+baseurl: "/Fall_2023" # the subpath of your site, e.g. /blog/
+url: "http://ORIE5355.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Cornell Tech"
+schoolurl: "https://tech.cornell.edu/"
+twitter_username:
+
+address: Cornell Tech, NYC, NY
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+google_analytics: G-Z5E5R5LFRG
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop', vendor]
+
+dateformat: "%m/%d"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

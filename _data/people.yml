@@ -1,0 +1,11 @@
+instructors:
+  - name: Nikhil Garg
+    profile_pic: /_images/pp/headshot_garg.jpg
+    webpage: gargnikhil.com
+
+teaching_assistants:
+  - name: Zhi Liu
+    profile_pic: /_images/pp/headshot_liu.png
+    webpage: http://zhiliu724.github.io/
+  - name: Gabriel Agostini
+    profile_pic: /_images/pp/gabriel.jpg
