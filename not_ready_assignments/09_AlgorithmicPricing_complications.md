@@ -15,5 +15,5 @@ hide_from_announcments: false
 - [Book chapter on Dynamic Programming](http://web.mit.edu/15.053/www/AMP-Chapter-11.pdf)
 
 **Notes:**
-- [Handwritten notes backward induction 1](/Fall_2023/static_files/DynamicProgramming_Pricing_notes_1.pdf)
-- [Handwritten notes backward induction 2](/Fall_2023/static_files/DynamicProgramming_Pricing_notes_2.pdf)
+- [Handwritten notes backward induction 1](/Spring2024/static_files/DynamicProgramming_Pricing_notes_1.pdf)
+- [Handwritten notes backward induction 2](/Spring2024/static_files/DynamicProgramming_Pricing_notes_2.pdf)

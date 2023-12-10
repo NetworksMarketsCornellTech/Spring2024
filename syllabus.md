@@ -52,7 +52,7 @@ All software used will also be open source/freely available.
 Course communication will primarily be over Ed Discussion, office hours, and email.
  - <b>Ed Discussion</b>: First resource for any question, whether regarding technical content or logistics. Please make your question visible to everyone, so that others may answer or benefit from your question. Instructors will aim to respond to questions in a 48-72 hour period, except for those of an urgent nature (e.g., typos on homeworks or lecture notes, clarifying course logistics, etc.).  Among other things this means you should not wait until the last few days before an assignment is due to message us; we may not respond in time. You are encouraged to answer questions from other students, especially during the instructor “waiting period.” 
  - <b>Office hours</b>: You are strongly encouraged to come to office hours for any reason. Office hours are the best way to ask in-depth technical questions, whether directly related to the course content or just things you’re interested in. TA office hours will often cover the homework questions in depth.
- - <b>Email</b>: Only for private questions and concerns, such as requests for accommodations or regrade requests. Please include “[ORIE5355]” in the subject line of any email. Technical questions will not be answered over email -- please use Ed Discussion.
+ - <b>Email</b>: Only for private questions and concerns, such as requests for accommodations or regrade requests. Please include “[networksmarketscornelltech]” in the subject line of any email. Technical questions will not be answered over email -- please use Ed Discussion.
 
 Please follow [these norms]({{"/class_norms/" | prepend: site.baseurl }}) in all communications with the instructors and other students.
 
@@ -88,7 +88,7 @@ Please follow [these norms]({{"/class_norms/" | prepend: site.baseurl }}) in all
  - <b>Biweekly quizzes: 10%</b>. 4-6 biweekly quizzes. Lowest score dropped.
  - <b>Participation: 10%</b>. Attend online/in-person class and have meaningful participation in the class community. Complete the ccasional class survey, as well as the final official course evaluation.
 
- Detailed HW assessment is available here: [https://orie5355.github.io/Fall_2023/assignments/](https://orie5355.github.io/Fall_2023/assignments/), and project assessment is available here: [https://orie5355.github.io/Fall_2023/project/](https://orie5355.github.io/Fall_2023/project/).  
+ Detailed HW assessment is available here: [https://networksmarketscornelltech.github.io/Spring2024/assignments/](https://networksmarketscornelltech.github.io/Spring2024/assignments/), and project assessment is available here: [https://networksmarketscornelltech.github.io/Spring2024/project/](https://networksmarketscornelltech.github.io/Spring2024/project/).  
 
  Tentative assignment deadlines (these dates are unlikely to be earlier, but may be later). Quizzes will either be in class or posted online on the stated date:
 - HW 1 -- 9/12

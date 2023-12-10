@@ -16,4 +16,4 @@ See [here for _submission instructions_](https://docs.google.com/document/d/1n-s
 
 We recognize that students will heavily differ in terms of programming and data science experience entering the course, and the tournament is partially luck-driven. Thus, project grading will not primarily be based on your performance in the tournament -- rather, demonstrated effort and soundness of application of course concepts as discussed in the report will determine much of the project grade. Exceptional performance on the class project will warrant an A+ in the course.
 
-GitHub repository with starter code: [https://github.com/ORIE5355/project_code_public_share_2023](https://github.com/ORIE5355/project_code_public_share_2023). 
+GitHub repository with starter code: [https://github.com/networksmarketscornelltech/project_code_public_share_2023](https://github.com/networksmarketscornelltech/project_code_public_share_2023). 

@@ -3,8 +3,8 @@ course_name: Applied Data Science - Decision-making beyond Prediction
 course_description: "This course considers the data science challenges beyond training an accurate predictive model, especially for systems about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, or urban systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and privacy and ethics concerns."
 course_semester: "Fall 2023"
 
-baseurl: "/Fall_2023" # the subpath of your site, e.g. /blog/
-url: "http://ORIE5355.github.io/" # the base hostname & protocol for your site
+baseurl: "/Spring2024" # the subpath of your site, e.g. /blog/
+url: "http://networksmarketscornelltech.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Cornell Tech"
 schoolurl: "https://tech.cornell.edu/"
