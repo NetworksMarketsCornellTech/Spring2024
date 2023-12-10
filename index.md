@@ -3,11 +3,9 @@ layout: home
 ---
 <b>Important links</b>
  - [Course website]({{"/" | prepend: site.baseurl }})
- - [Canvas](https://canvas.cornell.edu/courses/57049)
- - [Ed Discussion](https://edstem.org/us/courses/41491/) -- Primary communication tool
- - [Calendar](https://calendar.google.com/calendar/u/0?cid=NGw4b2Iwb2NzZmF0NDl0bDI3MG9kcm91ZW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) -- Class google calendar with lectures, OHs
- - [Gradescope](https://www.gradescope.com/courses/557420) -- Place to turn in all assignments
- - [YouTube](https://www.youtube.com/playlist?list=PLPjsPBAj-5PWX8dWDcqYfMvEuh7DWuBEJ) -- Lecture recordings from 2021. 
+ - [Canvas](https://canvas.cornell.edu/courses/62880)
+ - [Ed Discussion](https://edstem.org/us/courses/49973/discussion/) -- Primary communication tool
+ - [Gradescope](https://www.gradescope.com/courses/680548) -- Place to turn in all assignments
 
  <b> Course topics </b>
  - Data collection (~3 weeks)
