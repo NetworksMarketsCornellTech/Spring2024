@@ -1,6 +1,6 @@
 # Site settings
 course_name: Networks and Markets
-course_description: ""
+course_description: "This course considers computing challenges related to incentives, networks, crowds, and markets, with a focus on how these questions interact with algorithms and data-driven methods in applications such as online markets, social media, and civic systems. The course will cover the foundations of game theory and network theory, and then applications in matching markets, online platforms, recommendation systems, and democratic systems. The course will be a combination of applied mathematical modeling of such systems and reading research papers related to these topics in practice."
 course_semester: "Spring 2024"
 
 baseurl: "/Spring2024" # the subpath of your site, e.g. /blog/
