@@ -7,7 +7,7 @@ permalink: /syllabus/
 - Instructor: Prof. Nikhil Garg (he/him), ngarg@cornell.edu
 - TA: Kenny Peng, klp98@cornell.edu
 - Credits: 3 hours, Letter Grade
-- Lecture Timings: Mondays/Wednesdays, 2:55PM - 4:10PM [In person, Bloomberg 061
+- Lecture Timings: Mondays/Wednesdays, 2:55PM - 4:10PM [In person, Bloomberg 061]
 - Instructor office hours: Mondays, 4:10 - 5pm [Bloomberg 454]
 - TA office hours: TBD
 
