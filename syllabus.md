@@ -71,9 +71,9 @@ Letter grading. Grades will be at least as generous as the following, with A+ gi
  - F: < 70
 
 ## Assessment
-Primary assessment is based on 4-5 homeworks, about 8-10 in class assignments, and a paper presentation and review. We will replace your lowest homework grade with your paper presentation grade (if it is higher). The in class assignments will be short and are primarily for educational purposes. They should be straightforward given lecture attendance and homework completion. Your lowest two in class assignment grades will be dropped.
+Primary assessment is based on 4-5 homeworks, about 8-10 in class assignments, and a paper presentation and review. We will replace your lowest homework grade with your paper presentation grade (if it is higher). The in class assignments will be short and are primarily for educational purposes. They should be straightforward given lecture attendance and homework completion. Your lowest 2 in class assignment grades will be dropped.
 
-You will be allowed five total late days during the semester for homeworks.  These late days allow you to turn in homework up to 24 hours late, with no penalty; you may also use all the late days on a single homework assignment (allowing you to turn it in up to 96 hours late), but that will leave you with no late days for other homeworks. When submitting an assignment late, please mark at the top how many late days are used for this assignment and how many you have used before, if any. Late days cannot be used for quizzes or the project -- only homework.
+You will be allowed five total late days during the semester for homeworks.  These late days allow you to turn in homework up to 24 hours late, with no penalty; you may also use all the late days on a single homework assignment (allowing you to turn it in up to 5 days late), but that will leave you with no late days for other homeworks. When submitting an assignment late, please mark at the top how many late days are used for this assignment and how many you have used before, if any. Late days cannot be used for quizzes or the project -- only homework.
 
 
 ### Regrade, late assignments, and extensions policy
