@@ -15,7 +15,8 @@ permalink: /syllabus/
  - [Course website]({{"/" | prepend: site.baseurl }})
  - [Canvas](https://canvas.cornell.edu/courses/62880)
  - [Ed Discussion](https://edstem.org/us/courses/49973/discussion/) -- Primary communication tool
- - [Gradescope](https://www.gradescope.com/courses/680548) -- Place to turn in all assignments
+ - [Gradescope](https://www.gradescope.com/courses/680548) -- Place to turn in assignments
+ - [Paper presentation and review instructions](https://docs.google.com/document/d/1XVYrOeXj3RAoJAl0wLpP1Wel2HjuOXTtQKg2F_AeCNM)
 
 # Course Description
 This course considers computing challenges related to incentives, networks, crowds, and markets, with a focus on how these questions interact with algorithms and data-driven methods in applications such as online markets, social media, and civic systems. The course will cover the foundations of game theory and network theory, and then applications in matching markets, online platforms, recommendation systems, and democratic systems. The course will be a combination of applied mathematical modeling of such systems and reading research papers related to these topics in practice.  
