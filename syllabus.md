@@ -79,7 +79,7 @@ Letter grading. Grades will be at least as generous as the following, with A+ gi
 
  HW Assignments: 2/13, 3/5, 3/26, 4/16, 5/7
 
- Written paper review: 5/13
+ Written paper review: 5/13, 5pm
 
  Paper presentation days will be throughout the semester. 
 
@@ -91,6 +91,7 @@ In class Quizzes: Same grading as homeworks.
 
 Participation: 80% of participation grade will be based on attendance, as judged by occaisonal in class sign-ins. Remainder of participation based on filling out class surveys, final course evaluation, and in class/EdStem/office hours participation.
 
+Paper presentation and review: 45% of grade will be based on presentation, 45% on review. Presentation grade will be based on clarity, depth, engagement with the paper, and ability to answer questions. Review grade will similarly be based on clarity, depth, coverage of the paper, and answering questions in the report instructions. The remaining 10% of the grade is based on your discussant task for someone else's presentation, based on clarity of 2-3 minute presentation and peer review. 
 
 ## Assessment
 Primary assessment is based on 4-5 homeworks, about 8 in class assignments, and a paper presentation and review. We will replace your lowest homework grade with your paper presentation grade (if it is higher). The in class assignments will be short and are primarily for educational purposes. They should be straightforward given lecture attendance and homework completion. Your lowest in class assignment grade will be dropped.
