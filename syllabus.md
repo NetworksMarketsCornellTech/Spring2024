@@ -6,8 +6,8 @@ permalink: /syllabus/
 # CS 5854/ORIE 5138: Networks and Markets
 - Instructor: Prof. Nikhil Garg (he/him), ngarg@cornell.edu
 - TA: Kenny Peng, klp98@cornell.edu
-- Credits: 3 hours, Letter Grade
-- Lecture Timings: Mondays/Wednesdays, 2:55PM - 4:10PM [In person, Bloomberg 061]
+- Credits and Credit Hour Options: 3 hours, Letter Grade
+- Time and Location: Mondays/Wednesdays, 2:55PM - 4:10PM [In person, Bloomberg 061]
 - Instructor office hours: Mondays, 4:10 - 5pm [Bloomberg 454]
 - TA office hours: TBD
 
@@ -21,12 +21,12 @@ permalink: /syllabus/
 # Course Description
 This course considers computing challenges related to incentives, networks, crowds, and markets, with a focus on how these questions interact with algorithms and data-driven methods in applications such as online markets, social media, and civic systems. The course will cover the foundations of game theory and network theory, and then applications in matching markets, online platforms, recommendation systems, and democratic systems. The course will be a combination of applied mathematical modeling of such systems and reading research papers related to these topics in practice.  
 
-Student Outcomes and course objectives: Students will be able to articulate challenges related to incentives and networks in markets and beyond, and will be able to apply mathematical modeling and data-driven methods to address these challenges. Students will also be able to read and understand research papers in this area, and will be able to present and critique such papers.
+**Student Outcomes and course objectives**: Students will be able to articulate challenges related to incentives and networks in markets and beyond, and will be able to apply mathematical modeling and data-driven methods to address these challenges. Students will also be able to read and understand research papers in this area, and will be able to present and critique such papers.
 
 ## About the instructor
 Nikhil is an assistant professor of Operations Research and Information Engineering at Cornell Tech, whose research is at the intersection of computer science, economics, and operations -- on the application of algorithms, data science, and mechanism design to the study of democracy, markets, and societal systems at large. Things he’s worked on include 311 reporting systems, surge pricing, rating systems, how to vote on budgets, gerrymandering, stereotypes in word embeddings, and political polarization on Twitter. Outside of academia, Nikhil has been a data scientist at Uber, collaborated with Upwork and other freelancing marketplaces, and most recently led campaign data science at PredictWise during the 2020 US election cycle.
 
-## Prerequisites and Preparation summary
+## Prerequisites/Corequisites and Preparation summary
 This course is primarily theoretical and conceptual, and requires some mathematical maturity and familiarity with mathematical notation and proof-based arguments. For example, students who have taken _Modeling Under Uncertainty_ at Cornell Tech are likely to be well-prepared. 
 
 ## Class and Laboratory Schedule:
@@ -58,7 +58,9 @@ Please follow [these norms]({{"/class_norms/" | prepend: site.baseurl }}) in all
  - <b>Homework: 45%</b>. 4-5 homeworks. Each HW is an equal part of the homework grade. Lowest score replaced by paper presentation/review grade.
  - <b>Paper presentation and review: 25%</b>. 
  - <b>In class assignments/quizzes: 20%</b>. We'll have in class assignments/quizzes approximately once a week. Lowest 2 scores dropped.
- - <b>Participation: 10%</b>. Attend online/in-person class and have meaningful participation in the class community. Complete the occasional class survey, as well as the final official course evaluation.
+ - <b>Participation: 10%</b>. Attend online/in-person class and have meaningful participation in the class community. Complete the occasional class survey, as well as the final official course evaluation. 
+
+
 
 **Basis of grade determination**
 
@@ -71,8 +73,27 @@ Letter grading. Grades will be at least as generous as the following, with A+ gi
  - C: 70-80
  - F: < 70
 
+ **Assignment due dates**
+
+ In class quizzes: 1/31, 2/7, 2/19, 3/4, 3/11, 3/20, 4/8, 4/22
+
+ HW Assignments: 2/13, 3/5, 3/26, 4/16, 5/7
+
+ Written paper review: 5/13
+
+ Paper presentation days will be throughout the semester. 
+
+ **Assignment rubrics**
+
+Homeworks: Each problem component will be graded out of 2 points. 0 points = no attempt, 1 point = attempt but incorrect, 2 points = mostly correct. Homeworks will occaisonally have bonus questions graded on the same rubric.
+
+In class Quizzes: Same grading as homeworks.
+
+Participation: 80% of participation grade will be based on attendance, as judged by occaisonal in class sign-ins. Remainder of participation based on filling out class surveys, final course evaluation, and in class/EdStem/office hours participation.
+
+
 ## Assessment
-Primary assessment is based on 4-5 homeworks, about 8-10 in class assignments, and a paper presentation and review. We will replace your lowest homework grade with your paper presentation grade (if it is higher). The in class assignments will be short and are primarily for educational purposes. They should be straightforward given lecture attendance and homework completion. Your lowest 2 in class assignment grades will be dropped.
+Primary assessment is based on 4-5 homeworks, about 8 in class assignments, and a paper presentation and review. We will replace your lowest homework grade with your paper presentation grade (if it is higher). The in class assignments will be short and are primarily for educational purposes. They should be straightforward given lecture attendance and homework completion. Your lowest in class assignment grade will be dropped.
 
 You will be allowed five total late days during the semester for homeworks. These late days allow you to turn in homework up to 24 hours late, with no penalty; you may also use all the late days on a single homework assignment (allowing you to turn it in up to 5 days late), but that will leave you with no late days for other homeworks. Note that late days can only be used in whole number increments; you cannot use "half" of a late day. When submitting an assignment late, please mark at the top how many late days are used for this assignment and how many you have used before, if any. Late days cannot be used for quizzes or the project -- only homework.
 
@@ -90,6 +111,12 @@ You are encouraged to study together and to discuss information and concepts cov
 
 Should copying occur, both the student(s) who copied work from another student(s) and the student(s) who gave material to be copied will both automatically receive a zero for the assignment. Penalty for violation of this Code can also be extended to include failure of the course and University disciplinary action.
 
+During in class assignments, you must do your own work. Talking or discussion is not permitted, nor may you compare papers, copy from others, or collaborate in any way. Any collaborative behavior during the examinations will result in failure of the exam, and may lead to failure of the course and University disciplinary action.
+
+**Academic Misconduct**. A faculty member may impose a grade penalty for any misconduct in the classroom or examination room. Examples of academic misconduct include, but are not limited to, talking during an exam, bringing unauthorized materials into the exam room, and disruptive behavior in the classroom.
+
+
+
 **ChatGPT, Github Copilot, and LLM policy**. Students are _not allowed_ to use such tools, except when explicitly stated. We reserve the right to change this policy during the semester.  
 
 ## Students with Disabilities
@@ -99,7 +126,9 @@ Your access to this course is important. Please give me your Student Disability 
 Cornell University is committed to supporting students who wish to practice their religious beliefs. Students are advised to discuss religious absences with their instructors well in advance of the religious holiday so that arrangements for making up work can be resolved before the absence.
 
 ## Cornell Tech Cares
-The Cornell Tech community is a diverse and vibrant group of students, faculty, and staff.  We take our responsibility to look out for one another seriously. As members of this community, your openness and proactive communication will allow us all to better care for students and respond to their needs, whether they be interpersonal or academic. Please help us continue to build and strengthen our community by reaching out if you are having an issue or are concerned about a fellow student. Contact studentwellness@tech.cornell.edu with concerns and we will make sure to care for one another.  In the event of an emergency, please call 911 and Cornell Tech Safety & Security at 646-971-3611 (This number is also located on the back of your Cornell ID), when safe to do so. The following link also has resources available to Cornell Tech students:
+Cornell Tech Cares: The Cornell Tech community is a diverse and vibrant group of students, faculty, and staff.  We take our responsibility to look out for one another seriously. As members of this community, your openness and proactive communication will allow us all to better care for students and respond to their needs, whether they be interpersonal or academic. Please help us continue to build and strengthen our community by reaching out if you are having an issue or are concerned about a fellow student. Contact studentwellness@tech.cornell.edu with concerns and we will make sure to care for one another.  In the event of an emergency, please call 911 and Cornell Tech Safety & Security at 646-971-3611 (This number is also located on the back of your Cornell ID), when safe to do so.
+
+The following link also has resources available to Cornell Tech students:
 https://studentaffairs.tech.cornell.edu/health-wellness/nyc-health-resources/.
 
 ## Attestation
