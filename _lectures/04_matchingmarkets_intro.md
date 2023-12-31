@@ -11,5 +11,9 @@ links:
 hide_from_announcments: false
 ---
 
-**Suggested Reading**
+**Reading**
 [R Lecture 2](https://timroughgarden.org/f16/l/l2.pdf)
+
+**Optional Reading**
+ - [Citation for the 2012 Nobel Prize (Roth and Shapley)](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2012/popular-economicsciences2012.pdf)
+ - [Market Design and Maintenance](https://www.nber.org/system/files/working_papers/w31947/w31947.pdf)
