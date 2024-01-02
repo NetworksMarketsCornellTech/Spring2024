@@ -2,8 +2,8 @@
 type: lecture
 date: 2024-01-31
 postdate: 2024-01-10
-title: Lecture 4 - Intro to matching markets
-tldr: "Intro to matching markets."
+title: Lecture 4 - Intro to centralized markets
+tldr: "Intro to centralized markets."
 thumbnail: /static_files/lectures_imgs/lec1.png
 links:
     - url: /static_files/lectures/Lecture4_centralizedmatching.pdf

@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-01-31
-postdate: 2024-01-10
+postdate: 2024-02-14
 title: Lecture 8 - Intro to networks
 tldr: "Intro to networks."
 thumbnail: /static_files/lectures_imgs/lec1.png

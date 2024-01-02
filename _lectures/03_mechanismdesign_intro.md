@@ -8,7 +8,7 @@ thumbnail: /static_files/lectures_imgs/lec1.png
 links:
     - url: /static_files/lectures/Lecture3_mechanisms.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 **Reading**

@@ -5,7 +5,7 @@ postdate: 2024-01-10
 title: Lecture 2 - Intro to game theory
 tldr: "Intro to game theory."
 thumbnail: /static_files/lectures_imgs/lec1.png
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 **Reading**
