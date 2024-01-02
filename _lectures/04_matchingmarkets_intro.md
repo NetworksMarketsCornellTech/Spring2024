@@ -6,7 +6,7 @@ title: Lecture 4 - Intro to matching markets
 tldr: "Intro to matching markets."
 thumbnail: /static_files/lectures_imgs/lec1.png
 links:
-    - url: /static_files/lectures/Lecture1_intro.pdf
+    - url: /static_files/lectures/Lecture4_centralizedmatching.pdf
       name: slides
 hide_from_announcments: false
 ---

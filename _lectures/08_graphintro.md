@@ -5,9 +5,6 @@ postdate: 2024-01-10
 title: Lecture 4 - Intro to networks
 tldr: "Intro to networks."
 thumbnail: /static_files/lectures_imgs/lec1.png
-links:
-    - url: /static_files/lectures/Lecture1_intro.pdf
-      name: slides
 hide_from_announcments: false
 ---
 
