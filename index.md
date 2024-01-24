@@ -6,6 +6,8 @@ layout: home
  - [Canvas](https://canvas.cornell.edu/courses/62880)
  - [Ed Discussion](https://edstem.org/us/courses/49973/discussion/) -- Primary communication tool
  - [Gradescope](https://www.gradescope.com/courses/680548) -- Place to turn in all assignments
+ - [Presentation paper list](https://www.gradescope.com/courses/680548) -- Place to turn in all assignments
+ 
 
  <b> Course topics </b>
  - Game Theory (~3 weeks)
