@@ -75,7 +75,7 @@ Letter grading. Grades will be at least as generous as the following, with A+ gi
 
  **Assignment due dates**
 
- In class quizzes: 1/31, 2/7, 2/19, 3/4, 3/11, 3/20, 4/8, 4/22
+ In class quizzes: 2/5, 2/12, 2/19, 3/4, 3/11, 3/20, 4/8, 4/22, 5/1
 
  HW Assignments: 2/13, 3/5, 3/26, 4/16, 5/7
 
