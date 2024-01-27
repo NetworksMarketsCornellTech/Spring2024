@@ -6,12 +6,12 @@ permalink: /assignments/
 
 <b>Homework grading</b>
 
-Each question will be given a score from 0 - 2 points.
+Each question will be given a score with roughly 3 levels:
  - 0 point: The question was not attempted.
- - 1 point: If you attempt it, but there are either substantial methodological errors or major conceptual misunderstandings of the material
- - 2 points: Essentially correct (may have minor errors), and the conceptual discussion is sufficient.
+ - Partial points: If you attempt it, but there are either substantial methodological errors or major conceptual misunderstandings of the material
+ - Full points: Essentially correct (may have minor errors), and the conceptual discussion is sufficient.
 
-We expect that most students will receive 2 points on most homework questions. There may also be bonus questions -- when calculating grades, the "denominator" for 100% will be (the number of mandatory questions)*2. 
+We expect that most students will receive full points on most homework questions. There may also be bonus questions -- when calculating grades, the "denominator" for 100% will be without the bonuses. 
 
 <b>Dropping grades and late days</b>
 
