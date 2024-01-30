@@ -8,6 +8,8 @@ thumbnail: /static_files/lectures_imgs/lec1.png
 links:
     - url: /static_files/lectures/Lecture3_mechanisms.pdf
       name: slides
+    - url: /static_files/lectures/Note_20240129.pdf
+      name: handwritten
 hide_from_announcments: true
 ---
 

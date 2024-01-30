@@ -9,7 +9,7 @@ permalink: /syllabus/
 - Credits and Credit Hour Options: 3 hours, Letter Grade
 - Time and Location: Mondays/Wednesdays, 2:55PM - 4:10PM [In person, Bloomberg 061]
 - Instructor office hours: Mondays, 4:10 - 5pm [Bloomberg 454]
-- TA office hours: TBD
+- TA office hours: Thursdays, 3:30 - 4:30pm, [Bloomberg 397] 
 
 <b>Important links</b>
  - [Course website]({{"/" | prepend: site.baseurl }})
