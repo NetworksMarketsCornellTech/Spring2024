@@ -7,7 +7,7 @@ layout: home
  - [Ed Discussion](https://edstem.org/us/courses/49973/discussion/) -- Primary communication tool
  - [Gradescope](https://www.gradescope.com/courses/680548) -- Place to turn in all assignments
  - [Presentation paper list](https://docs.google.com/document/d/1kq_TZtjNRbT2ULiO_4ngWr61f_2op4F7_3etKHkjBDk/edit?usp=sharing)
- 
+ - [Presentation instructions](https://docs.google.com/document/d/1XVYrOeXj3RAoJAl0wLpP1Wel2HjuOXTtQKg2F_AeCNM/edit?usp=sharing) 
 
  <b> Course topics </b>
  - Game Theory (~3 weeks)
