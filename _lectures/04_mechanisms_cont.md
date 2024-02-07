@@ -2,12 +2,12 @@
 type: lecture
 date: 2024-01-31
 postdate: 2024-01-10
-title: Lecture 4 - Intro to centralized markets
-tldr: "Intro to centralized markets."
+title: Lecture 4 - Games and auctions continued
+tldr: "Games and auctions continued."
 thumbnail: /static_files/lectures_imgs/lec1.png
 links:
-    - url: /static_files/lectures/Lecture4_centralizedmatching.pdf
-      name: slides
+    - url: /static_files/lectures/Note_20240131.pdf
+      name: handwritten
 hide_from_announcments: true
 ---
 
