@@ -2,8 +2,8 @@
 type: lecture
 date: 2024-02-21
 postdate: 2024-02-21
-title: Lecture 9 - Social Networks
-tldr: "Social Networks."
+title: Lecture 9 - Algorithms on graphs
+tldr: "Algorithms on graphs."
 thumbnail: /static_files/lectures_imgs/lec1.png
 links:
     - url: /static_files/lectures/Note_20240219.pdf
