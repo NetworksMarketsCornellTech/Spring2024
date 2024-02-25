@@ -5,6 +5,9 @@ postdate: 2024-02-06
 title: Lecture 7 - Matching markets in practice
 tldr: "Matching markets."
 thumbnail: /static_files/lectures_imgs/lec1.png
+links:
+    - url: /static_files/lectures/Note_20240212.pdf
+      name: handwritten
 hide_from_announcments: true
 ---
 

@@ -5,6 +5,9 @@ postdate: 2024-02-19
 title: Lecture 8 - Intro to networks
 tldr: "Intro to networks."
 thumbnail: /static_files/lectures_imgs/lec1.png
+links:
+    - url: /static_files/lectures/Note_20240219.pdf
+      name: handwritten
 hide_from_announcments: true
 ---
 
