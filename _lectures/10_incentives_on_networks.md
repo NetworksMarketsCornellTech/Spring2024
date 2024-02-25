@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-21
-postdate: 2024-02-21
+date: 2024-02-28
+postdate: 2024-02-24
 title: Lecture 10 - Incentives on networks
 tldr: "Incentives on networks."
 thumbnail: /static_files/lectures_imgs/lec1.png
