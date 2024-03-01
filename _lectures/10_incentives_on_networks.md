@@ -5,6 +5,9 @@ postdate: 2024-02-24
 title: Lecture 10 - Incentives on networks
 tldr: "Incentives on networks."
 thumbnail: /static_files/lectures_imgs/lec1.png
+links:
+    - url: /static_files/lectures/Note_20240228.pdf
+      name: handwritten
 hide_from_announcments: true
 ---
 
