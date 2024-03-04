@@ -5,5 +5,7 @@ title: Student paper presentations
 tldr: "Student paper presentations"
 thumbnail: /static_files/lectures_imgs/lec1.jpg
 hide_from_announcments: true
-
+links:
+    - url: /static_files/lectures/quiz4.pdf
+      name: handwritten
 ---
