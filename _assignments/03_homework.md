@@ -2,7 +2,7 @@
 type: assignment
 postdate: 2024-03-08
 date: 2024-03-08T4:00:00-5:00
-title: 'Homework #3'
+title: 'Homework #3 - Networks'
 attachment : /static_files/homeworks/HW3.pdf
 <!-- solutions: -->
 due: 2024-03-28T23:59:00-5:00
